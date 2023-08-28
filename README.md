@@ -18,5 +18,5 @@ def f(n):
    1. Rice (4 space.. start at i)
    6. Beans (get ii)
 27. Come home (get 3)
-2. After coming home
+28. After coming home
 3. And this should be the final line.
