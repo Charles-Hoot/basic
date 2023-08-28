@@ -13,7 +13,7 @@ def f(n):
   return a*b+n
 ~~~
 
-1. Go to the store
+2. Go to the store
 2. Buy Food
    1. Rice (4 space.. start at i)
    6. Beans (get ii)
