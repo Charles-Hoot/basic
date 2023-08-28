@@ -17,14 +17,14 @@ def fn(n):
 
 * items 1 and even more text added into this point jusst to see what happens
   
-1.0 item2 and even more text added into this point jusst to see what happens
+1. item2 and even more text added into this point jusst to see what happens
   * frank
   * fred
   * bob
-2.0 item 3
+2. item 3
   * Kathy
   * someone whose name I have forgotten.
     * Starts with w
     * Ends with t
   * Joe
-3.0 item last one
+3. item last one
