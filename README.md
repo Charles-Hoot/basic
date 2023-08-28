@@ -33,6 +33,17 @@ def fn(n):
 2. item 5 (up)
 2. item 6 (last)
 
+
+1. Go to the store
+2. Buy Food
+   2. Rice (3 space.. So start at ii)
+   6. Beans
+1. Come home
+2. After coming home
+3. And this should be the final line.
+   
+
+
 ***
 
 Stuff after
