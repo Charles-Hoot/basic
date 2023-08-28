@@ -15,21 +15,21 @@ def fn(n):
 > and _even_ more and _even_ more and _even_ more and _even_ more and _even_ more and _even_ more and _even_ more and _even_ more
 > and _even_ more and _even_ more and _even_ more and _even_ more and _even_ more and _even_ more and _even_ more
 
-1. items 1 
-1. item 2 
+4. items 1 
+3. item 2 
    1. Frank
    2. bob
       * b
       * o
       * b
    3. sally
-10. item 3
+2. item 3
   * Kathy
   * someone whose name I have forgotten.
     * Starts with w
     * Ends with t
   * Joe
-10. item 4 (last)
+1. item 4 (last)
 
 ***
 
