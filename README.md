@@ -23,7 +23,7 @@ def fn(n):
       * o
       * b
    4. sally
-1. item 3
+5. item 3
   * Kathy
   * someone whose name I have forgotten.
     * Starts with w
