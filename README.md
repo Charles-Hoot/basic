@@ -24,11 +24,11 @@ def fn(n):
       * b
    3. sally
 2. item 3
-  * Kathy
-  * someone whose name I have forgotten.
-    * Starts with w
-    * Ends with t
-  * Joe
+   * Kathy
+   * someone whose name I have forgotten.
+      * Starts with w
+      * Ends with t
+   * Joe
 20. item 4 (up)
 2. item 5 (up)
 2. item 6 (last)
