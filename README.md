@@ -37,7 +37,7 @@ def fn(n):
 
 2. Go to the store
 2. Buy Food
-    2. Rice (4 space.. So start at i)
+    1. Rice (4 space.. So start at i)
     6. Beans
 1. Come home
 2. After coming home
