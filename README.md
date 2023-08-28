@@ -17,9 +17,9 @@ def fn(n):
 
 1. items 1 and even more text added into this point jusst to see what happens
 1. item2 and even more text added into this point jusst to see what happens
-  1. frank
-  1. fred
-  1. bob
+    1. frank
+    1. fred
+    1. bob
 1. item 3
   * Kathy
   * someone whose name I have forgotten.
