@@ -1,4 +1,4 @@
-# basic
+1# basic
 ### A smaller heading
 
 This is some text.  We need a variable whose name is `freddie_mercury`.
@@ -20,10 +20,10 @@ def fn(n):
   * frank
   * fred
   * bob
-3. item 3
+1. item 3
   * Kathy
   * someone whose name I have forgotten.
     * Starts with w
     * Ends with t
   * Joe
-2. item last one
+1. item last one
