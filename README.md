@@ -23,13 +23,13 @@ def fn(n):
       * o
       * b
    4. sally
-3. item 3
+2. item 3
   * Kathy
   * someone whose name I have forgotten.
     * Starts with w
     * Ends with t
   * Joe
-4. item last one
+2. item last one
 
 ***
 
