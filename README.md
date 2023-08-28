@@ -17,18 +17,18 @@ def fn(n):
 
 4. items 1 
 3. item 2 
-   1. Frank
-   2. bob
-      * b
-      * o
-      * b
-   3. sally
+    1. Frank
+    2. bob
+        * b
+        * o
+        * b
+    3. sally
 2. item 3
-   * Kathy
-   * someone whose name I have forgotten.
-      * Starts with w
-      * Ends with t
-   * Joe
+    * Kathy
+    * someone whose name I have forgotten.
+        * Starts with w
+        * Ends with t
+        * Joe
 20. item 4 (up)
 2. item 5 (up)
 2. item 6 (last)
@@ -43,7 +43,6 @@ def fn(n):
 2. After coming home
 3. And this should be the final line.
    
-
 
 ***
 
