@@ -19,7 +19,10 @@ def fn(n):
 2. item2 and even more text added into this point jusst to see what happens
    1. Frank
    2. bob
-   3. sally
+      1. b
+      2. o
+      3. b
+   4. sally
 3. item 3
   * Kathy
   * someone whose name I have forgotten.
