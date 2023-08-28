@@ -29,7 +29,7 @@ def fn(n):
     * Starts with w
     * Ends with t
   * Joe
-2. item 4 (up)
+20. item 4 (up)
 2. item 5 (up)
 2. item 6 (last)
 
