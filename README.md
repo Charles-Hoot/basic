@@ -11,6 +11,8 @@ more text and even more text.
 more text and even more text.
 more text and even more text.
 
+$f(n) = n^3$
+
 Here is some code with the variable `myVariable`.
 ```
 def f(n):
