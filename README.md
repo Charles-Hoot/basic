@@ -31,6 +31,14 @@ def f(n):
 
 ***
 
+This is a truth table
+| P | Q | P and Q |
+| --- | --- | ---: |
+| T | T | T |
+| T | F | F | T |
+| F | T | F |
+|F|F|F|
+
 Take me to google [link](https://www.google.com) is where i want to go
 
 Cat
