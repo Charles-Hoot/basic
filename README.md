@@ -11,7 +11,11 @@ more text and even more text.
 more text and even more text.
 more text and even more text.
 
-$f(n) = n^3$
+$f(n) = n^3$ or $f(n)=2\pi n $
+
+$ or 2 $ 
+
+Space after initial dollar sign does not render in Tex.  Space before closing $ has no effect.  
 
 Here is some code with the variable `myVariable`.
 ```
