@@ -13,6 +13,8 @@ more text and even more text.
 
 $f(n) = n^3$ or $f(n)=2\pi n $
 
+Embedded x $x=y$ will work
+
 $ or 2 $ 
 
 Space after initial dollar sign does not render in Tex.  Space before closing $ has no effect.  
